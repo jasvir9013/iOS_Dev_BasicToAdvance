@@ -26,7 +26,7 @@ Ans: An information property list file is a structured text file that contains e
 7:  Auto Layout -  
 Ans: xCode use autolayout to build userinterface that accomodate multiple screen size.
 
-8:  Frame & Bound - 
+8:  Frame & Bound -   
 Ans - The bounds of an UIView is the rectangle, expressed as a location (x,y) and size (width,height) relative to its own coordinate system (0,0). The frame of an UIView is the rectangle, expressed as a location (x,y) and size (width,height) relative to the superview it is contained within.  
 
 9: Constraints -   
